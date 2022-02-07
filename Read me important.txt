@@ -1,0 +1,15 @@
+Kindly read this thouroughly before downloading and using this script
+
+
+
+Create data base using php my ad,im either local host or live server 
+Create username and password for user in the php myadmin
+Go to this file /core/.env file and edit with your code editor
+Edit the Database connection on line 9 to line 14
+edit the mail settings from line 26-30
+
+lastly open php myadmin and import the database file in this directory to your user account you configured
+/core/database/database.sql
+
+
+
