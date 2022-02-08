@@ -1,2 +1,5 @@
 {
+    "require": {
+        "emotality/tawk-laravel": "^2.1"
+    }
 }
